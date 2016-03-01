@@ -1,0 +1,14 @@
+{
+    "name": "remotelearner/eliscore",
+    "description": "Elis core is part of Elis project.",
+    "type": "moodle-local",
+    "license": "GLP-V2",
+    "authors": [
+        {
+            "name": "Remote Learner",
+            "email": "contact@remote-learner.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
